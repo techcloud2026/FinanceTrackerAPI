@@ -26,3 +26,4 @@
 /home/user/app/obj/Debug/net9.0/myapp.pdb
 /home/user/app/obj/Debug/net9.0/myapp.genruntimeconfig.cache
 /home/user/app/obj/Debug/net9.0/ref/myapp.dll
+/home/user/app/obj/Debug/net9.0/myapp.sourcelink.json

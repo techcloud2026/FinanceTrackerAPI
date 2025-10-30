@@ -17,7 +17,7 @@ namespace FinanceTracker.API.Models
         [Required]
         public decimal Amount { get; set; }
 
-        public Guid CategoryId { get; set; }
+        public int CategoryId { get; set; }
 
         [MaxLength(50)]
         public string PaymentMethod { get; set; } = string.Empty;

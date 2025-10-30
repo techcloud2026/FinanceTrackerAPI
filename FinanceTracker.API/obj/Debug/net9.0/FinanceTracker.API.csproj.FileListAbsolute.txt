@@ -134,6 +134,7 @@
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/FinanceTracker.API.csproj.CoreCompileInputs.cache
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/FinanceTracker.API.MvcApplicationPartsAssemblyInfo.cs
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/FinanceTracker.API.MvcApplicationPartsAssemblyInfo.cache
+/home/user/app/FinanceTracker.API/obj/Debug/net9.0/FinanceTracker.API.sourcelink.json
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/scopedcss/bundle/FinanceTracker.API.styles.css
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/staticwebassets.build.json
 /home/user/app/FinanceTracker.API/obj/Debug/net9.0/staticwebassets.development.json
